@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void test(){
         Log.d("mon app", "ceci est un test");
+        Log.e("mon app","coucou");
     }
 }
