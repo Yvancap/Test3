@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         test();
         Log.d("Monapp","Fais chié");
+        Log.e("Mon app","CEci est un test");
     }
 
     public void test(){
